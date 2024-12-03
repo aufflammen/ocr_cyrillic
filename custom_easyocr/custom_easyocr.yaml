@@ -1,0 +1,8 @@
+character_list: 0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ €₽№АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюяABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzЂђЃѓЄєІіЇїЈјЉљЊњЋћЌќЎўЏџҐґҒғҚқҮүҲҳҶҷӀӏӢӣӨөӮ
+imgH: 32
+lang_list:
+- ru
+network_params:
+  hidden_size: 256
+  input_channel: 1
+  output_channel: 256
