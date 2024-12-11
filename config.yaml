@@ -1,0 +1,10 @@
+path_dataset_documents: dataset_documents
+path_dataset_synthetic: dataset_synthetic
+path_fonts: fonts
+path_models_best: models_best
+path_models_save: models_save
+path_pdf_files: pdf_files
+vocab_category:
+  1_number: 0123456789
+  2_symbol: '!"#$%&''()*+,-./:;<=>?@[\]^_`{|}~ €₽№°'
+  3_ru_char: АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя
